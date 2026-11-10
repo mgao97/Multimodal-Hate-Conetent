@@ -1,1 +1,1 @@
-# Multimodal-Hate-Conetent
+# Multimodal-Hate-Content
